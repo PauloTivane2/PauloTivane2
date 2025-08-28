@@ -30,6 +30,8 @@ Currently working on my thesis and building my future in tech!
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@tivanepaulo2)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge)](https://www.instagram.com/tivane_companhia)
 [![Website](https://img.shields.io/badge/Website-black?logo=google-chrome&style=for-the-badge)](https://kodeza.dev)
+[![Spotify](https://img.shields.io/badge/Spotify-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/user/31hgslba6kh5ytcuygnphyhsn7wu)
+
 
 ---
 
