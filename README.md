@@ -12,13 +12,32 @@ Currently working on my thesis and building my future in tech!
 - 🏆 Contributor to local tech initiatives, with hands-on experience in IT support & system installation.
 
 ---
-
 ### 🛠️ Skills & Technologies
 
-- **Languages & Frameworks**: Next.js, React, TailwindCSS, TypeScript
-- **Systems**: Windows & Linux
-- **Tools**: Microsoft Office
-- **Soft Skills**: Quick learner, team player, problem solver
+#### 💻 Programming Languages
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) Java
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) Dart
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
+
+#### 🌐 Frameworks & Libraries
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) Flutter
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) Next.js
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) TailwindCSS
+
+#### 🖥️ Systems
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) Windows
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Linux
+
+#### 🛠️ Tools
+- ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) Microsoft Office
+
+#### 🌟 Soft Skills
+- Quick learner  
+- Team player  
+- Problem solver
 
 ---
 
