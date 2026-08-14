@@ -81,12 +81,12 @@ Final-year Computer Engineering student at Universidade Zambeze (UNIZA), Beira, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulotivane2&show_icons=true&theme=transparent&title_color=01403A&icon_color=01403A&text_color=333333&border_color=D9D9D9&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulotivane2&theme=default&hide_border=false&background=FFFFFF00&ring=01403A&fire=01403A&currStreakLabel=01403A" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotivane2&layout=compact&theme=transparent&title_color=01403A&text_color=333333&border_color=D9D9D9&hide_border=false" height="165"/>
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
 
 </div>
+
+<sub>Estes cartões são gerados diretamente no teu repositório por uma GitHub Action (ver <code>readme-stats.yml</code> em anexo), em vez de dependerem de um serviço público externo — mais estável e mais rápido a carregar.</sub>
 
 <br/>
 
