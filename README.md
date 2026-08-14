@@ -1,40 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01403A,100:B5F230&height=220&section=header&text=Paulo%20Tivane&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Builder%20%7C%20Final-Year%20Student&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01403A,100:B5F230&height=200&section=header&text=Paulo%20Tivane&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20%26%20Mobile%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<a href="https://kodeza.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-kodeza.dev-01403A?style=for-the-badge&logo=googlechrome&logoColor=B5F230" />
+<a href="https://tivaneverse.me">
+  <img src="https://img.shields.io/badge/PORTFOLIO-tivaneverse.me-01403A?style=for-the-badge&logo=googlechrome&logoColor=B5F230" />
 </a>
 <a href="https://www.linkedin.com/in/paulo-babucho-issaca-tivane-542b24363">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/tivanepaulo2">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B5F230&center=true&vCenter=true&width=650&lines=Final-year+Computer+Engineering+Student+%40+UNIZA;Building+Txeneza+%E2%80%94+AI-powered+waste+mapping+platform;Flutter+%7C+Next.js+%7C+Supabase+%7C+Mapbox+%7C+Gemini+API;Open+to+opportunities+in+software+%26+mobile+development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=01403A&center=true&vCenter=true&width=650&lines=Final-year+Computer+Engineering+Student+%40+UNIZA;Building+Txeneza+%E2%80%94+Georeferenced+Waste+Mapping+Platform;Flutter+%7C+Next.js+%7C+Supabase+%7C+Mapbox+%7C+Gemini+API;Open+to+Software+%26+Mobile+Development+Opportunities" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-## 🧭 About
+## Profile
 
-Final-year **Computer Engineering** student at **Universidade Zambeze (UNIZA)**, Beira, Mozambique — currently finishing my monograph on **Txeneza**, a georeferenced solid waste mapping platform combining Flutter, Next.js, Supabase and the Gemini API.
-
-- 🔭 Building **Txeneza** — offline-first mobile app + web dashboard for smart waste management
-- 🌱 Deepening my knowledge of scalable architecture, spatial data (PostGIS) and applied AI
-- 🤝 Support fellow students with technical academic projects and coursework
-- 💬 Ask me about Flutter, Next.js, Supabase, or academic project structuring
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/paulo-babucho-issaca-tivane-542b24363)
+Final-year Computer Engineering student at Universidade Zambeze (UNIZA), Beira, Mozambique, completing a monograph on Txeneza, a georeferenced solid waste mapping platform built with Flutter, Next.js, Supabase and the Gemini API. Experienced in mobile and web development, applied AI integration, and spatial data systems, with a focus on offline-first architecture and production-grade engineering practices.
 
 <br/>
 
-## ⚙️ Tech Stack
+## Current Focus
+
+| Area | Details |
+|---|---|
+| Primary Project | Txeneza — mobile and web platform for smart waste management |
+| Stack | Flutter, Next.js, Supabase, PostGIS, Mapbox GL, Gemini API |
+| Key Results | 97.5% image classification accuracy, 95% offline sync success rate |
+| Academic | Final-year monograph defense, Computer Engineering, UNIZA |
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:01403A,100:B5F230&height=3&width=100%25" width="100%"/>
+</div>
+
+<br/>
+
+## Technical Skills
 
 <div align="center">
 
@@ -46,7 +52,7 @@ Final-year **Computer Engineering** student at **Universidade Zambeze (UNIZA)**,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Platforms**
+**Frameworks and Platforms**
 <br/>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -54,7 +60,7 @@ Final-year **Computer Engineering** student at **Universidade Zambeze (UNIZA)**,
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Tools & Infra**
+**Tools and Infrastructure**
 <br/>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
@@ -65,55 +71,61 @@ Final-year **Computer Engineering** student at **Universidade Zambeze (UNIZA)**,
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:01403A,100:B5F230&height=3&width=100%25" width="100%"/>
+</div>
+
 <br/>
 
-## 🚀 Featured Project
+## GitHub Statistics
 
 <div align="center">
 
-| | |
-|---|---|
-| **🗺️ Txeneza** | Georeferenced solid waste reporting & mapping platform |
-| **Stack** | Flutter · Next.js · Supabase · PostGIS · Mapbox GL · Gemini API |
-| **Highlights** | 97.5% image classification accuracy · 95% offline sync success · offline-first architecture |
+<img src="https://github-readme-stats.vercel.app/api?username=paulotivane2&show_icons=true&theme=transparent&title_color=01403A&icon_color=01403A&text_color=333333&border_color=D9D9D9&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulotivane2&theme=default&hide_border=false&background=FFFFFF00&ring=01403A&fire=01403A&currStreakLabel=01403A" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotivane2&layout=compact&theme=transparent&title_color=01403A&text_color=333333&border_color=D9D9D9&hide_border=false" height="165"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulotivane2&show_icons=true&theme=transparent&title_color=01403A&icon_color=B5F230&text_color=333333&border_color=ADD9B8&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulotivane2&theme=default&hide_border=false&background=FFFFFF00&ring=01403A&fire=B5F230&currStreakLabel=01403A" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotivane2&layout=compact&theme=transparent&title_color=01403A&text_color=333333&border_color=ADD9B8&hide_border=false" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulotivane2&theme=minimal&hide_border=true&color=01403A&line=01403A&point=B5F230&area=true&area_color=B5F230" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🌐 Connect
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:01403A,100:B5F230&height=3&width=100%25" width="100%"/>
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/paulotivane2/paulotivane2/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<sub>Este componente anima-se sozinho a cada contribuição, através de uma GitHub Action que corre automaticamente (ver ficheiro <code>snake.yml</code> em anexo). Basta adicioná-la ao repositório uma única vez.</sub>
+
+<br/>
+
+## Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-babucho-issaca-tivane-542b24363)
+[![Website](https://img.shields.io/badge/Portfolio-01403A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tivaneverse.me)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tivanepaulo2)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tivane_companhia)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tivanepaulo2)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/tivanepaulo2)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31hgslba6kh5ytcuygnphyhsn7wu)
-[![Website](https://img.shields.io/badge/kodeza.dev-01403A?style=for-the-badge&logo=googlechrome&logoColor=B5F230)](https://kodeza.dev)
 
 </div>
 
-<br/>
-
-<div align="center">
-<i>Football fan (Messi, Manchester City) · One Piece · Plutónio on repeat</i>
-<br/><br/>
-<i>"I believe in learning by doing and sharing knowledge with others. Let's connect and grow together."</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5F230,100:01403A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5F230,100:01403A&height=90&section=footer" width="100%"/>
